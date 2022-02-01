@@ -1,1 +1,1 @@
-ls -t --format commas --indicator-style=slash
+ls -t -m -p
